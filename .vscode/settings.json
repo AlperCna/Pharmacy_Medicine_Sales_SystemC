@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "myglobals.C": "cpp",
+        "authentication.h": "c"
+    }
+}
